@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 public class FirsrtClass {
 
     public static void main(String[] args) throws Exception {
-
+//тест коммент
 
         String inputPath = "C:\\1.txt";
         File input = new File(inputPath);
